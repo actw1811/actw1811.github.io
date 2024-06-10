@@ -2,14 +2,10 @@
 
 Reduced order model development with machine learning to simulate drug delivery in nasal cavity
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: Machines that simulate drugs to the nasal cavity can be pretty inaccurate in effectively getting the medince into the ear of the patient . 
 
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
+Approach: During this project, we will be using models to test different parameters to increase fluid flow through the nose
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
-
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+Expected Outcome: The project is expected to result in a conference poster presentation at the end of the Summer AI program. The poster will focus on our dicoveries with the model.
 
 
