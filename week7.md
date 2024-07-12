@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Week 6
+title: Week 7
 author: Anthony Williams
 ---
 
-During this week of research, We got some feedback on the quality of the research papers that we read related to our topic of "Reduced order model development with machine learning to simulate drug delivery in nasal cavity" We practied our Presentations a lot this week especially after the tech problems. the prepare time was definitely helpful. Other than that, i worked on optimizing my angles for my simulation with the axis and velocity in mind. Some challages were trurly understanding the signs of a good research paper looks like and how can we avoid the same mistakes. I was also very nervous for the presentations but was thankful for more time to get ready.
-
+During this week of research, This week zoomed by and we was about to get a bit of work done. It would have been more but we ran into a hill setting up for data generation tables in comsol. After changing things to make that possible, the simulation would no longer compute as fast as it was. Now about this weeks presentations, i feel like My team and I killed it. I tried to be engaging and thanks to all that ones who clapped and asked some nice questions. We did a lot of preparing on monday and thursday. 
 
 [Back](./)
