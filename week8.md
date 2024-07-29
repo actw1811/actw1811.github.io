@@ -4,6 +4,6 @@ title: Week 8
 author: Anthony Williams
 ---
 
-During this week of research, This week zoomed by and we was about to get a bit of work done. It would have been more but we ran into a hill setting up for data generation tables in comsol. After changing things to make that possible, the simulation would no longer compute as fast as it was. Now about this weeks presentations, i feel like My team and I killed it. I tried to be engaging and thanks to all that ones who clapped and asked some nice questions. We did a lot of preparing on monday and thursday. yt
+During this week of research, we starting thinking of how we were going to read the paper and the presentation that will be due next week. Other then that the week was pretty slow. We made 64 simpiflied models with different parameters in The radius and depth of tissues blocking the passage from being a straight shot and the thickness of the air passage. Multitasking how to make export data from comsol right and all the writing, we need done. One problem that was common this week was the mesh of the models were failing to produce sometimes with no way to fix them. 
 
 [Back](./)
